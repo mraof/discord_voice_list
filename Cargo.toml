@@ -1,0 +1,11 @@
+[package]
+name = "discord_voice_list"
+version = "0.1.0"
+authors = ["mraof <mraof@mraof.com>"]
+
+[dependencies]
+discord = {path = "../github/discord-rs"}
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
+retry = "*"

@@ -1,0 +1,7 @@
+/target/
+**/*.rs.bk
+.idea/inspectionProfiles/
+.idea/workspace.xml
+config.json
+names.txt
+discord_tokens
